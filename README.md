@@ -33,16 +33,10 @@ I care about:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrabahri988&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 - LinkedIn: [www.linkedin.com/in/sarra-bahri]
-- Email: [sarrasrr23@gmail.com]
+- Email: [sarra.bahri07@gmail.com]
 
 ---
 
